@@ -63,5 +63,5 @@
   </a>
 </p>
 <h4 align="center">
-  <a href=https:https://github.com/mertalidalli" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href=mertalidalli title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
