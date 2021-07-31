@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Mert Dallı, Elektronic and Communications Engineer & Software Developer from Turkey
+  Hi, I'm Mert Dallı, Electronic and Communications Engineer & Software Developer from Turkey
   <br>
   🎓 I graduated from Tekirdag Namık Kemal University Electronics and Communication Engineering Department
   <br>
