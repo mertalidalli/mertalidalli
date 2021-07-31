@@ -23,7 +23,7 @@
   💻 I write what I know on medium <a href="https://medium.com/@mertalidalli" title="Issues">Here</a>
   <br>
 
-  💬 Ask me anything about from <a href="https://github.com/mertalidalli" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://www.linkedin.com/in/mertdalli/" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: mertdalli@windowslive.com">mertdalli@windowslive.com</a>
 </p>
@@ -55,10 +55,10 @@
 <hr>
 
 <p align=center>
-  <a href="https://github.com/mertalidalli/mertdalli" title="Go to Source">
+  <a href="https://github.com/mertalidalli/mertalidalli" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mertalidalli&show_icons=true&theme=gotham">
   </a>
-  <a href="https://github.com/mertalidalli/mertdalli">
+  <a href="https://github.com/mertalidalli/mertalidalli">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertalidalli&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </p>
