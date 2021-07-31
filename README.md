@@ -59,6 +59,7 @@
   <code><img title="PVSyst" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/PVsyst.png"></code>
   <code><img title="CSS" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/css.svg"></code>
   <code><img title="php" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/php.svg"></code>
+  <code><img title="hack" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/hack.svg"></code>
 </p>
 
 <hr>
