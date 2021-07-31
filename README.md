@@ -1,7 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mertalidalli">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/mertalidalli?style=social)
-![Instagram Follow](https://img.shields.io/instagram/follow/mertalidalli?style=social)
 <br>
 <h3 align="center">
   Hello there, I'm Mert <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"width="30px">
@@ -35,9 +34,6 @@
   <br>
   📫 How to reach me: <a href="mailto: mertdalli@windowslive.com">mertdalli@windowslive.com</a>
   <br>
-  ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Mertalidalli Spotify Playing" width="350" />](https://open.spotify.com/user/35dluleqdxljmb1m2cml4tk21)
 </p>
 <hr>
 
