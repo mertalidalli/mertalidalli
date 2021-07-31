@@ -27,7 +27,7 @@
   <br>
   📫 How to reach me: <a href="mailto: mertdalli@windowslive.com">mertdalli@windowslive.com</a>
 </p>
-<h12 align="center">
+<h3 align="center">
   
 | Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -54,7 +54,7 @@
     </tr>
   </tbody>
 </table>
-  </h12>
+  </h3>
 <hr>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
