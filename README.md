@@ -57,6 +57,8 @@
   <code><img title="Proteus" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/proteus.png"></code>
   <code><img title="Weka" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/weka.png"></code>
   <code><img title="PVSyst" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/PVsyst.png"></code>
+  <code><img title="CSS" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/css.svg"></code>
+  <code><img title="php" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/php.svg"></code>
 </p>
 
 <hr>
