@@ -43,13 +43,13 @@
   <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/visualstudio.png"></code>
   <code><img title="GitHub" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/github.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/mysql.svg"></code>
-  <code><img title="MATLAB" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/Matlab.svg"></code>
-  <code><img title="R" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/R.svg"></code>
+  <code><img title="MATLAB" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/Matlab.png"></code>
+  <code><img title="R" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/R.png"></code>
   <code><img title="LaTeX" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/LaTeX.svg"></code>
   <code><img title="Arduino" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/arduino.svg"></code>
-  <code><img title="Proteus" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/proteus.svg"></code>
-  <code><img title="Weka" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/weka.svg"></code>
-  <code><img title="PVSyst" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/PVsyst.svg"></code>
+  <code><img title="Proteus" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/proteus.png"></code>
+  <code><img title="Weka" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/weka.png"></code>
+  <code><img title="PVSyst" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/PVsyst.png"></code>
 </p>
 
 <hr>
