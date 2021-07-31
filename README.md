@@ -6,9 +6,9 @@
 <h5 align="center">
   <code>
     <a href="https://https://www.linkedin.com/in/mertdalli/" title="LinkedIn Profile"><img width="22" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/mertdalli" title="HackerRank Profile"><img width="22" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackexchange.com/users/22312419/mertdalli" title="Stack Overflow Profile"><img width="22" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/mertalidalli/" title="Instagram Profile"><img width="22" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.hackerrank.com/mertdalli" title="HackerRank Profile"><img width="22" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackexchange.com/users/22312419/mertdalli" title="Stack Overflow Profile"><img width="22" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/mertalidalli/" title="Instagram Profile"><img width="22" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -33,23 +33,23 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="C++" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/C++.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/python-original.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/html5.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/visualstudio.png"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/mysql.svg"></code>
-  <code><img title="MATLAB" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/Matlab.svg"></code>
-  <code><img title="R" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/R.svg"></code>
-  <code><img title="LaTeX" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/LaTeX.svg"></code>
-  <code><img title="Arduino" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/arduino.svg"></code>
-  <code><img title="Proteus" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/proteus.svg"></code>
-  <code><img title="Weka" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/weka.svg"></code>
-  <code><img title="PVSyst" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/master/images/PVsyst.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/C++.svg"></code>
+  <code><img title="C#" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/python-original.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/html5.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/visualstudio.png"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/mysql.svg"></code>
+  <code><img title="MATLAB" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/Matlab.svg"></code>
+  <code><img title="R" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/R.svg"></code>
+  <code><img title="LaTeX" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/LaTeX.svg"></code>
+  <code><img title="Arduino" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/arduino.svg"></code>
+  <code><img title="Proteus" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/proteus.svg"></code>
+  <code><img title="Weka" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/weka.svg"></code>
+  <code><img title="PVSyst" height="25" src="https://github.com/mertalidalli/mertalidalli/blob/main/images/PVsyst.svg"></code>
 </p>
 
 <hr>
