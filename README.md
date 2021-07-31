@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mertalidalli">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/mertalidalli?style=social)
+![Instagram Follow](https://img.shields.io/instagram/follow/mertalidalli?style=social)
 <br>
 <h3 align="center">
   Hello there, I'm Mert <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"width="30px">
