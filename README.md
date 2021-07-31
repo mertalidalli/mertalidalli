@@ -22,10 +22,19 @@
   <br>
   💻 I write what I know on medium <a href="https://medium.com/@mertalidalli" title="Issues">Here</a>
   <br>
-
+  🔭 I’m currently working on machine learning project. 😉
+  <br>
+  🌱 I’m currently learning Python & SQL 🐍
+  <br>
+  ⚡ Fun fact: I love playing game with my friends 👾
+  <br>
   💬 Ask me anything about from <a href="https://www.linkedin.com/in/mertdalli/" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: mertdalli@windowslive.com">mertdalli@windowslive.com</a>
+  <br>
+  ### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/35dluleqdxljmb1m2cml4tk21)
 </p>
 <hr>
 
