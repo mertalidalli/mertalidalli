@@ -27,7 +27,7 @@
   <br>
   📫 How to reach me: <a href="mailto: mertdalli@windowslive.com">mertdalli@windowslive.com</a>
 </p>
-
+<h12 align="center">
 | Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
@@ -53,6 +53,7 @@
     </tr>
   </tbody>
 </table>
+  </h12>
 <hr>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
