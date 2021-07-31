@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mertalidalli">
 <br>
 <h3 align="center">
-  Hello there, I'm Mert <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
+  Hello there, I'm Mert <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"width="30px">
 </h3>
 <h5 align="center">
   <code>
